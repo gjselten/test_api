@@ -6,5 +6,9 @@ module TestApi
     def test_puts
       puts 'this is a test'
     end
+
+    def two
+      puts '2'
+    end
   end
 end
